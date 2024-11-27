@@ -18,7 +18,6 @@
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 |[International Debt Statistics EDA](https://github.com/ykabir19/ykabir19/blob/main/International%20Debt%20Statistics%20project%20SQL%20.ipynb)| Data Analysis | Analysed international debt data from world bank to answer questions like; total amount of debt owed by countries, what country owes maximum amount of debt, average amount of debt owed by countries across different debt indicators? |
-||||
 |[Exploring Londons Travel Network]()| EDA | Explore Datacamps Snowflake Transport For londons dataset to find most popular transport types, emirates airline popularity, least popular years for tube|
 
 
