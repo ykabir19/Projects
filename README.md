@@ -23,5 +23,9 @@
 
 ***
 
-## Power BI
+## Visualizations
+| Project Link | Platform | Project Description|
+|---|---|---|
+|[Analayzing Customer Churn Rate Datalabel](https://github.com/ykabir19/Visualizations/blob/main/PowerBi/Analysing%20customer%20Churn%20/README.md)| Power BI| Conducted a customer churn analysis for Databel Telecom using Power BI to identify key drivers and trends. Delivered actionable insights through an interactive dashboard, enabling strategies to improve customer retention and reduce churn rates|
+
 
